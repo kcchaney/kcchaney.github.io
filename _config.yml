@@ -6,9 +6,9 @@ description: "Write your site description here. It will be used as your sites me
 #baseurl: "/startbootstrap-clean-blog-jekyll"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: yourtwitterusername
+github_username:  kcchaney
+facebook_username: yourfacebookusername
 
 # Build settings
 markdown: kramdown
